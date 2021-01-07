@@ -23,6 +23,8 @@
    
    ![Prototipo en FIGMA](https://github.com/CaroRo451/Trivia-Laboratoria/blob/main/Prototipo%20FIGMA.png)
    
-   En el prototipo utilizamos colores, rojo para las preguntas y azul para las respuestas, representando a los logos de ambas marcas (rojo Marvel y azul DC). Y en la próxima    iteración se modificará el tipo de letra para los textos largos, como en las preguntas, se disminuirá el tamaño de las alternativas de respuesta y de las letras de la aplicación en general. Todo esto en base a las sugerencias de usuarios testeados.
+   En el prototipo utilizamos colores, rojo para las preguntas y azul para las respuestas, representando a los logos de ambas marcas (rojo Marvel y azul DC). 
+   
+   En la próxima    iteración se modificará el tipo de letra para los textos largos, como en las preguntas, se disminuirá el tamaño de las alternativas de respuesta y de las letras de la aplicación en general. Todo esto en base a las sugerencias de usuarios testeados.
    
 
