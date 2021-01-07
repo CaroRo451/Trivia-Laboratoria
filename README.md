@@ -19,6 +19,8 @@
    
    Flujo del prototipo
    
+   ![Flujo del prototipo](https://github.com/CaroRo451/Trivia-Laboratoria/blob/main/Flujo%20de%20la%20trivia.jpeg)
+   
    
    Se desarrolló el prototipo en FIGMA y fue mostrado a tres personas.
    
