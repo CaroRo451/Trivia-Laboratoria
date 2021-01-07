@@ -11,4 +11,4 @@
    
    Iniciamos la trivia pensando en un tema común a nuestros intereses, como música o películas, escogiendo este último.
    
-   !(https://github.com/CaroRo451/Trivia-Laboratoria/blob/main/Prototipo%20en%20papel.png)
+
